@@ -1,2 +1,1 @@
-hiii 
-my name is trixie
+hiii my name is trixie
